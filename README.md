@@ -7,4 +7,4 @@ The objective is to perform an initial data and exploratory analysis of some of 
 
 ## Data
 For the analysis, Instacart Opensource data from 2017 was used.
-To access the data, click [HERE]([url](https://www.instacart.com/datasets/grocery-shopping-2017))
+To access the data, click [HERE](https://www.instacart.com/datasets/grocery-shopping-2017))
